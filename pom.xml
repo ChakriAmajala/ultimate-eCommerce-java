@@ -55,11 +55,11 @@
     </dependencies>
  <distributionManagement>
         <repository>
-            <id>maven-releases</id>
+            <id>nexus-releases</id>
             <url>http://51.20.103.169:8099/repository/maven-releases/</url>   
         </repository>
         <snapshotRepository>
-            <id>maven-snapshots</id>
+            <id>nexus-snapshots</id>
             <url>http://51.20.103.169:8099/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
